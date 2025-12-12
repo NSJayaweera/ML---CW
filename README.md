@@ -1,15 +1,15 @@
-Project Overview
+Project Overview<br>
 A comprehensive machine learning project for predicting customer churn in the telecommunications industry, implementing and comparing Neural Network and Decision Tree models with thorough hyperparameter tuning and ethical AI considerations.
 
-Business Problem
+Business Problem<br>
 Customer churn in telecom represents significant revenue loss. This project develops predictive models to identify at-risk customers, enabling proactive retention strategies and reducing churn rates.
 
 Dataset
-Source: Telco Customer Churn Dataset
-Records: 7,043 customers
-Features: 21 features (demographics, services, account information)
-Target: Churn (Yes/No) - 26.5% churn rate
-Key Characteristics: Moderate class imbalance, mixed data types, minimal missing values
+- Source: Telco Customer Churn Dataset
+- Records: 7,043 customers
+- Features: 21 features (demographics, services, account information)
+- Target: Churn (Yes/No) - 26.5% churn rate
+- Key Characteristics: Moderate class imbalance, mixed data types, minimal missing values
 
 Dependencies
 Key libraries used:
