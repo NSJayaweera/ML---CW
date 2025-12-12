@@ -11,7 +11,7 @@ Customer churn in telecom represents significant revenue loss. This project deve
 - Target: Churn (Yes/No) - 26.5% churn rate
 - Key Characteristics: Moderate class imbalance, mixed data types, minimal missing values
 
-**Dependencies**
+**Dependencies**<br>
 Key libraries used:
 - pandas, numpy (data manipulation)
 - scikit-learn (machine learning)
