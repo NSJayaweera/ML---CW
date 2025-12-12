@@ -16,8 +16,6 @@ Key libraries used:
 - pandas, numpy (data manipulation)
 - scikit-learn (machine learning)
 - matplotlib, seaborn (visualization)
-- xgboost, lightgbm (optional ensemble models)
-- imbalanced-learn (class imbalance handling)
 
 **Usage**
 1. Data Preprocessing
